@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="CodeIgniter Application Test Suite" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.022983">
-    <testsuite name="Welcome_test" file="/home/vagrant/swift/application/tests/controllers/Welcome_test.php" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.022983">
-      <testcase name="test_method_404" class="Welcome_test" classname="Welcome_test" file="/home/vagrant/swift/application/tests/controllers/Welcome_test.php" line="14" assertions="1" time="0.018950"/>
-      <testcase name="test_APPPATH" class="Welcome_test" classname="Welcome_test" file="/home/vagrant/swift/application/tests/controllers/Welcome_test.php" line="20" assertions="1" time="0.004033"/>
+  <testsuite name="CodeIgniter Application Test Suite" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.022367">
+    <testsuite name="Welcome_test" file="/home/vagrant/swift/application/tests/controllers/Welcome_test.php" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.022367">
+      <testcase name="test_method_404" class="Welcome_test" classname="Welcome_test" file="/home/vagrant/swift/application/tests/controllers/Welcome_test.php" line="14" assertions="1" time="0.018241"/>
+      <testcase name="test_APPPATH" class="Welcome_test" classname="Welcome_test" file="/home/vagrant/swift/application/tests/controllers/Welcome_test.php" line="20" assertions="1" time="0.004126"/>
     </testsuite>
   </testsuite>
 </testsuites>
