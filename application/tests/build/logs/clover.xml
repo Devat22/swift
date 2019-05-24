@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1558668056">
-  <project timestamp="1558668056">
+<coverage generated="1558669283">
+  <project timestamp="1558669283">
     <file name="/home/vagrant/swift/application/controllers/Welcome.php">
       <class name="Welcome" namespace="global">
         <metrics complexity="3" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="15" coveredstatements="0" elements="18" coveredelements="0"/>
